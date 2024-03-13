@@ -1,0 +1,128 @@
+/* section1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.bb i{
+    color: rgb(235, 172, 11);
+}
+.bb i a{
+    color: goldenrod;
+}
+.bb{
+    height: 24px;
+}
+/* section2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.aa i{
+  font-size: 30px;  
+  color: white;
+}
+.aa a{
+    margin-left: 15px;
+}
+.aa button{
+    border-radius: 10px;
+    color: rgb(244, 241, 241);
+    background-color:transparent;
+    padding: 10px 30px 10px 30px;
+    margin-left: 70px;
+}
+.aa button:hover{
+    background-color: goldenrod;
+}
+/* section3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+
+.dd{
+    text-align: center;
+    background-color: goldenrod;
+    height: 190px;
+}
+.dd h1{
+    margin-top: 30px;
+}
+/* section4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ee{
+    text-align: center;
+}
+.ee h1{
+    margin-top: 30px;
+}
+.ee p{
+    margin-top: 30px;
+}
+/* section5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ff{
+    background-color: rgb(250, 245, 238);
+}
+.ff img{
+    height: 400px;
+    width: 550px;
+    margin-top: 50px;
+}
+.ff img{
+    filter: brightness(100%);
+
+}
+.ff img:hover{
+    filter: brightness(35%);
+}
+.ff h1{
+    margin-top: 20px;
+}
+.ff h5{
+    margin-top: 20px;
+    color: goldenrod;
+}
+ .gg img{
+    height: 300px;
+    width: 350px;
+}
+/* section6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.rr{
+    background-color: rgb(250, 245, 238);
+}
+.rr img{
+height: 250px;
+width: 300px;
+margin-top: 30px;
+border-radius: 10px;
+}
+/* section7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ss{
+    background-color: rgb(253, 250, 247);
+}
+.ss img{
+    height: 400px;
+    width: 450px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.ss h1{
+    margin-top: 20px;
+    text-align: center;
+}
+.ss p{
+    margin-top: 20px;
+}
+/* section8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.kk{
+    height: 500px;
+}
+.kk img{
+    /* height: 200px; */
+    /* width: 200px; */
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.kk h1{
+    margin-top: 20px;
+    text-align: center;
+}
+/* section9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.xxx{
+    height: 550px;
+    color: rgb(234, 214, 101);
+    text-align: center;
+}
+.xxx h6{
+    margin-top: 30px;
+}
+.xxx p{
+    margin-top: 30px;
+}
